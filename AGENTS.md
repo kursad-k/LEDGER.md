@@ -1,6 +1,6 @@
 
 
-Add this to your AGENTS.md:
+Add this to your AGENTS.md/CLAUDE.md:
 
 ## Ledger
 LEDGER.md is the shared memory for agents, kept as a captain's log. Read it to catch up; write to it when you're done.
